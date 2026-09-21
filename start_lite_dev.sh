@@ -1,0 +1,1 @@
+make run-lite 2>&1 | tee weknora.log
